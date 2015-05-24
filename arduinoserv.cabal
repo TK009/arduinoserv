@@ -64,6 +64,7 @@ executable arduinoserv
                      , ivar-simple
                      , stm
                      , transformers
+                     , directory
   
   -- Directories containing source files.
   hs-source-dirs:      src
